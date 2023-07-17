@@ -1,0 +1,7 @@
+**/*__pycache__
+data
+.idea
+.env
+**/*.DS_Store
+venv
+
